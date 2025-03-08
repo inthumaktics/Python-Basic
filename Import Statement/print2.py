@@ -1,0 +1,1 @@
+print("Hasi saya int.er")

@@ -1,0 +1,1 @@
+data2 = "semester 2 ada algoritma pemrograman"
