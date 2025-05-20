@@ -27,7 +27,7 @@
 # balik_string = input_kata[::-1]
 # print(f"Kata {input_kata}, jika dibalik menjadi {balik_string}")
 
-input_kata = ["Hallo world", "Anjaii"]
+input_kata = ["Hallo world", "kerennn"]
 input_kata.reverse()
 print(input_kata)
 
